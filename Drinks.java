@@ -1,6 +1,6 @@
 public class Drinks extends Restaurant implements drinksPrice
 {
-        // Price of Soft Drinks     ** not usefull
+        // Price of Soft Drinks     ** unused
     private double cocaCola = D1P;
     private double mirinda = D1P;
     private double sprite = D1P;
