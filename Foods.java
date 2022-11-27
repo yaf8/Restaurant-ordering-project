@@ -1,7 +1,7 @@
 public class Foods extends Restaurant implements foodPrice
 {
     
-        // Food Name
+        // Food Name    //Ethiopian Foods
     static String F1N = "Special Burger"; 
     static String F2N = "Special Pizza";
     static String F3N = "Pasta";
@@ -34,7 +34,7 @@ public class Foods extends Restaurant implements foodPrice
         countF++;
     }
 
-    public static void foodMenu() // Food Menu
+    public static void foodMenu() // Food Menu      /Ethiopian Food Menu
     {
         System.out.println("\t--------------------------------------------------------------  ");
         System.out.println("\t                         Food Menu                              ");

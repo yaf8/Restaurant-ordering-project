@@ -6,7 +6,7 @@ public class Drinks extends Restaurant implements drinksPrice
     private double sprite = D1P;
     private double fanta = D1P;
 
-        // Drink name
+        // Drink name   //Ethiopian Drinks
     static String D1N = "Coca Cola";
     static String D2N = "Mirinds";
     static String D3N = "Sprite";
@@ -48,7 +48,7 @@ public class Drinks extends Restaurant implements drinksPrice
         return fanta;
     }
 
-            // Drinks Menu
+            // Drinks Menu      //Ethiopian Drinks Menu
     public static void drinkMenu()
     {
         System.out.println("\t*  Softdrinks    ");
